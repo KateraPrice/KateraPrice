@@ -5,6 +5,8 @@
 
 - 🔭 **Featured Project:** [Meme Generator](https://github.com/KateraPrice/memegenerator)
 
+- 🔭 **In Progress Project:** [Portfolio](https://github.com/KateraPrice/portfolio)
+
 - 🌱 **Current Goals:**  
   Grow as a front-end developer, build meaningful projects, collaborate, and learn from the community.
 
